@@ -4,7 +4,6 @@ A professionally designed Calculator Web Application developed using **HTML5, CS
 
 The application provides a seamless and intuitive interface for performing basic arithmetic operations while maintaining a structured, scalable, and maintainable codebase.
 
----
 
 ## 📋 Project Overview
 
@@ -12,7 +11,6 @@ The Calculator Web Application is designed to deliver accurate mathematical calc
 
 Built entirely with vanilla HTML, CSS, and JavaScript, the application emphasizes performance, accessibility, and cross-browser compatibility without relying on external frameworks or libraries.
 
----
 
 ## ✨ Key Features
 
@@ -25,7 +23,6 @@ Built entirely with vanilla HTML, CSS, and JavaScript, the application emphasize
 - Lightweight and optimized performance
 - Clean and organized code structure
 
----
 
 ## 🛠️ Technologies Used
 
@@ -35,7 +32,6 @@ Built entirely with vanilla HTML, CSS, and JavaScript, the application emphasize
 | CSS3 | Styling, layout, and responsiveness |
 | JavaScript (ES6) | Application logic and interactivity |
 
----
 
 ## 🎯 Objectives
 
@@ -49,7 +45,6 @@ This project was developed to strengthen practical knowledge in:
 - User Interface Development
 - Clean Code Practices
 
----
 
 ## 📂 Project Structure
 
@@ -59,6 +54,3 @@ calculator/
 ├── script.js
 └── README.md
 
----
-
-## 🚀 Getting Started
