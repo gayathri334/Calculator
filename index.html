@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="page-shell">
+        <div class="calculator">
+            <div class="calculator__header">
+                <div>
+                    <h1>Smart Calc</h1>
+                    <p>Fast, clear, and beautiful math.</p>
+                </div>
+            </div>
+
+            <div class="calculator__screen">
+                <div id="history" class="calculator__history">0</div>
+                <div id="output" class="calculator__output">0</div>
+            </div>
+
+            <div class="calculator__buttons">
+                <button class="button button--secondary" data-action="clear">AC</button>
+                <button class="button button--secondary" data-action="delete">DEL</button>
+                <button class="button button--secondary" data-action="%">%</button>
+                <button class="button button--operator" data-action="÷">÷</button>
+
+                <button class="button" data-action="7">7</button>
+                <button class="button" data-action="8">8</button>
+                <button class="button" data-action="9">9</button>
+                <button class="button button--operator" data-action="×">×</button>
+
+                <button class="button" data-action="4">4</button>
+                <button class="button" data-action="5">5</button>
+                <button class="button" data-action="6">6</button>
+                <button class="button button--operator" data-action="-">-</button>
+
+                <button class="button" data-action="1">1</button>
+                <button class="button" data-action="2">2</button>
+                <button class="button" data-action="3">3</button>
+                <button class="button button--operator" data-action="+">+</button>
+
+                <button class="button button--wide" data-action="0">0</button>
+                <button class="button" data-action=".">.</button>
+                <button class="button button--equal" data-action="=">=</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
